@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
 <h3 align="center">I'm a passionate frontend developer from Ankara, Turkey</h3>
 
-- 🔭 I’m currently working for **@Netdatasoft**
+- 🔭 I’m currently working for **@DivvyDrive**
 
 - 👯 I’m looking to working on [Cloud storage web application (Divvy Drive)](https://divvydrive.com/)
 
