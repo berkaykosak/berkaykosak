@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@berkaykosak8](https://medium.com/@berkaykosak8)
 
-- 💬 Ask me about **Asp.net MVC , Bootstrap , Javascript**
+- 💬 Ask me about **Asp.net MVC, Bootstrap, Javascript, JQuery, CSS **
 
 - 📫 How to reach me **berkaykosak8@gmail.com**
 
